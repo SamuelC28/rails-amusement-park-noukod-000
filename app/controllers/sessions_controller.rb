@@ -22,7 +22,7 @@ class SessionsController < ApplicationController
     end
   end
 
-def new 
+def new
 end
 
 end
